@@ -3,6 +3,11 @@
 ## 📖 About the Research
 This reserach integrates **time-series uncrewed aerial system (UAS) multispectral imaging** with advanced **deep learning techniques** to enhance field-scale **crop yield prediction**. Using a **MicaSense RedEdge MX+ sensor**, multispectral data was collected across different nitrogen (N) rates throughout the potato growing season. The dataset was preprocessed and analyzed using a combination of **Partial Least Squares Regression (PLSR)** and a novel **deep learning architecture (CAR Conv1D-BiGRU-BiLSTM-Net)** to model temporal crop dynamics effectively.  
 
+## 🏗 Research Pipeline  
+The pipeline for **UAS-based crop yield prediction** follows a structured workflow:  
+
+![Research Pipeline](images/pipeline_image.png)
+
 ## 🚀 Features
 - 🌍 **Multispectral UAS data analysis** with Pix4Dmapper, QGIS, and linear unmixing techniqe.
 - 📈 **Feature extraction** using PLSR for robust prediction   
