@@ -6,7 +6,7 @@ This reserach integrates **time-series uncrewed aerial system (UAS) multispectra
 ## 🏗 Research Pipeline  
 The pipeline for **UAS-based crop yield prediction** follows a structured workflow:  
 
-![Research Pipeline](Figures/Fig1.pdf)
+![Research Pipeline](Figures/Fig7-1.png)
 
 ## 🚀 Features
 - 🌍 **Multispectral UAS data analysis** with Pix4Dmapper, QGIS, and linear unmixing techniqe.
