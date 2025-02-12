@@ -31,7 +31,7 @@ This reserach integrates **time-series uncrewed aerial system (UAS) multispectra
 We welcome contributions! Feel free to submit pull requests or open issues.
 
 ## 📖 Citation
-@article{yadav2025context,
+@article{yadav2025context,\
   title={Context-Aware Deep Learning Model for Yield Prediction in Potato Using Time-Series UAS Multispectral Data},\
   author={Yadav, Suraj A and Zhang, Xin and Wijewardane, Nuwan K and Feldman, Max and Qin, Ruijun and Huang, Yanbo and Samiappan, Sathishkumar and Young, Wyatt and Tapia, Francisco G},\
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},\
