@@ -8,7 +8,7 @@ This reserach integrates **time-series uncrewed aerial system (UAS) multispectra
 - 📈 **Feature extraction** using PLSR for robust prediction   
 - 📊 **Time-series crop yield prediction** using deep learning   
 - 🔄 **Growth stage-based yield modeling** (T1-T4)  
-- 🖥️ **Python-based implementation** with TensorFlow & SciPy
+- 🖥️ **Python-based implementation** with geopandas, rasterio, sklearn, TensorFlow & SciPy
 
 ## 📂 Dataset & Preprocessing  
 - Data collected using **UAS multispectral imaging**  
