@@ -12,7 +12,7 @@ The pipeline for **UAS-based crop yield prediction** follows a structured workfl
 - 🌍 **Multispectral UAS data analysis** with Pix4Dmapper, QGIS, and linear unmixing techniqe.
 - 📈 **Feature extraction** using PLSR for robust prediction   
 - 📊 **Time-series crop yield prediction** using deep learning   
-- 🔄 **Growth stage-based yield modeling** (T1-T4)  
+- 🔄 **Growth stage-based yield modeling** (T1-T5)  
 - 🖥️ **Python-based implementation** with geopandas, rasterio, sklearn, TensorFlow & SciPy
 
 ## 📂 Dataset & Preprocessing  
