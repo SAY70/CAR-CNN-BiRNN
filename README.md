@@ -1,4 +1,4 @@
-# 🌿 Context-Aware Deep Learning Model for Yield Prediction in Potato Using Time-Series UAS Multispectral Data
+# 🌿 Context-Aware Deep Learning Model for Yield Prediction Using Time-Series UAS Multispectral Data
 
 ## 📖 About the Research
 This reserach integrates **time-series uncrewed aerial system (UAS) multispectral imaging** with advanced **deep learning techniques** to enhance field-scale **crop yield prediction**. Using a **MicaSense RedEdge MX+ sensor**, multispectral data was collected across different nitrogen (N) rates throughout the potato growing season. The dataset was preprocessed and analyzed using a combination of **Partial Least Squares Regression (PLSR)** and a novel **deep learning architecture (CAR Conv1D-BiGRU-BiLSTM-Net)** to model temporal crop dynamics effectively.  
