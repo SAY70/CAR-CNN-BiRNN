@@ -32,9 +32,6 @@ The pipeline for **UAS-based crop yield prediction** follows a structured workfl
    cd CAR-CNN-BiRNN
    ```
 
-## 🤝 Contributing
-We welcome contributions! Feel free to submit pull requests or open issues.
-
 ## 📖 Citation
 @article{yadav2025context,\
   title={Context-Aware Deep Learning Model for Yield Prediction in Potato Using Time-Series UAS Multispectral Data},\
@@ -43,6 +40,10 @@ We welcome contributions! Feel free to submit pull requests or open issues.
   year={2025},\
   publisher={IEEE}\
 }
+
+
+## 🤝 Contributing
+We welcome contributions! Feel free to submit pull requests or open issues.
 
 ---
 🌟 **Star this repository** if you find it useful!
