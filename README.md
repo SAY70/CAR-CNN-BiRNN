@@ -18,7 +18,7 @@ The pipeline for **UAS-based crop yield prediction** follows a structured workfl
 ## 📂 Dataset & Preprocessing  
 - Data collected using **UAS multispectral imaging**  
 - Preprocessing: **Pix4Dmapper, QGIS, Linear unmixing, and soil masking techniques**  
-- Feature engineering: **Vegetation indices (SR, CHLGR, MARI, Vf), N-rate**
+- Feature engineering: **Vegetation indices (SR, CHLGR, MARI, VF), N-rate**
 
 ## 🧠 Deep Learning Model  
 - **PLSR for feature extraction** relevant to crop yield  
