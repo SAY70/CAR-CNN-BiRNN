@@ -1,7 +1,7 @@
 # 🌿 Context-Aware Deep Learning Model for Yield Prediction Using Time-Series UAS Multispectral Data
 
 ## 📖 About the Research
-This reserach integrates **time-series uncrewed aerial system (UAS) multispectral imaging** with advanced **deep learning techniques** to enhance field-scale **crop yield prediction**. Using a **MicaSense RedEdge MX+ sensor**, multispectral data was collected across different nitrogen (N) rates throughout the potato growing season. The dataset was preprocessed and analyzed using a combination of **Partial Least Squares Regression (PLSR)** and a novel **deep learning architecture (CAR Conv1D-BiGRU-BiLSTM-Net)** to model temporal crop dynamics effectively.  
+This research integrates **time-series uncrewed aerial system (UAS) multispectral imaging** with advanced **deep learning techniques** to enhance field-scale **crop yield prediction**. Using a **MicaSense RedEdge MX+ sensor**, multispectral data was collected across different nitrogen (N) rates throughout the potato growing season. The dataset was preprocessed and analyzed using a combination of **Partial Least Squares Regression (PLSR)** and a novel **deep learning architecture (CAR Conv1D-BiGRU-BiLSTM-Net)** to model temporal crop dynamics effectively.  
 
 ## 🏗 Research Pipeline  
 The pipeline for **UAS-based crop yield prediction** follows a structured workflow:  
@@ -9,7 +9,7 @@ The pipeline for **UAS-based crop yield prediction** follows a structured workfl
 ![Research Pipeline](Figures/Fig7-1.png)
 
 ## 🚀 Features
-- 🌍 **Multispectral UAS data analysis** with Pix4Dmapper, QGIS, and linear unmixing techniqe.
+- 🌍 **Multispectral UAS data analysis** with Pix4Dmapper, QGIS, and linear unmixing technique.
 - 📈 **Feature extraction** using PLSR for robust prediction   
 - 📊 **Time-series crop yield prediction** using deep learning   
 - 🔄 **Growth stage-based yield modeling** (T1-T5)  
