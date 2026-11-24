@@ -31,6 +31,10 @@ The pipeline for **UAS-based crop yield prediction** follows a structured workfl
    git clone https://github.com/SAY70/CAR-CNN-BiRNN.git
    cd CAR-CNN-BiRNN
    ```
+2. Install the Python dependencies used by the notebooks in `Script/`:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## 📖 Citation
 @article{yadav2025context,\
